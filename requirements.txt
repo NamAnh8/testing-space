@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+pypdf
+Pillow
+PyMuPDF
+python-dotenv
+faiss-cpu
+chromadb
